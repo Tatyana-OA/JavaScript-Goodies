@@ -1,0 +1,17 @@
+li:nth-child(3n+0) {
+  color: red;
+}
+
+.wrapper {
+  background-color: #e6e84d94;
+  width: 20%;
+  display:flex;
+  flex-flow:column;
+  justify-content:space-around;
+  align-items:center;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+ul {
+  padding-left:0px;
+}
